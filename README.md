@@ -1,2 +1,5 @@
 # hello-world
-just anothor repository
+
+hi human
+
+this is my first github Demo
